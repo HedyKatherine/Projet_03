@@ -18,7 +18,7 @@ nav ul {
 }
 nav li {
     float: left;
-    margin: 0px 60px 0px 0px;
+    margin: 0px 95px 0px 0px;
 }
 li a {
     display: block;
@@ -38,17 +38,15 @@ li a:hover {
   	align-items: flex-end;
   	display: flex;
     margin: auto;
-    padding-right: 400px;
-    padding-left: 400px;
-    background-color: black;
+    padding: 10px 400px 10px 400px;
 }
 body p {
     text-align:center;
     justify-content: space-between;
 }
 li img {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
 aside {
 	justify-content: space-between;
@@ -107,6 +105,7 @@ footer {
   font-family: Arial, Helvetica, sans-serif;
     margin: 40px 0px 20px 0px;
     padding: 10px 0px 10px 0px;
+    background-color: black;
   }
 nav ul {
     list-style-type: none;
