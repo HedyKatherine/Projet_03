@@ -7,9 +7,11 @@ header{
   justify-content: space-between;
 	align-items: flex-end;
 	display: flex;
+  padding: 10px;
 }
 footer{
   font-family: Arial, Helvetica, sans-serif;
+  background-color: black;
 }
 nav ul{
     list-style-type: none;
@@ -20,7 +22,7 @@ nav ul{
 }
 nav li{
     float: left;
-    margin: 0px 97px 0px 0px;
+    margin: 0px 60px 0px 0px;
 
 }
 li a{
@@ -41,17 +43,16 @@ li a:hover{
   	align-items: flex-end;
   	display: flex;
     margin: auto;
-    padding-right: 400px;
-    padding-left: 400px;
-    background-color: black;
+    padding: 10px 400px 10px 400px;
+
 }
 body p{
     text-align:center;
     justify-content: space-between;
 }
 li img{
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
 aside{
 	justify-content: space-between;
@@ -98,6 +99,4 @@ main{
 footer{
   margin: 40px 0px 20px 0px;
   padding: 10px 0px 10px 0px;
-
-
 }
