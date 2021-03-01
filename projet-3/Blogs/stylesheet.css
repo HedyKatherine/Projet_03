@@ -39,17 +39,18 @@ li a:hover {
     justify-content: space-between;
   	align-items: flex-end;
   	display: flex;
+    background-color: dimgray;
     margin: auto;
-    padding-right: 400px;
-    padding-left: 400px;
+    padding-right: 450px;
+    padding-left: 450px;
 }
 body p {
     text-align:center;
     justify-content: space-between;
 }
 li img {
-  width: 100px;
-  height: 100px;
+  width: 50px;
+  height: 50px;
 }
 aside {
 	justify-content: space-between;
@@ -81,15 +82,4 @@ main {
   font-size: 3em;
   text-shadow:2.5px 2.5px blue;
   color: black;
-}
-.prgr {
-  padding-top: 30px;
-  text-shadow:2.5px 2.5px slategray;
-  font-size: 2em;
-}
-.prgrph {
-  padding-top: 70px;
-  text-shadow:2px 2px slategray;
-  color: black;
-  font-size: 2em;
 }
